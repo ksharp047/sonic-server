@@ -39,4 +39,9 @@ public class I18nConfig {
         messageSource.setDefaultEncoding("UTF-8");
         return messageSource;
     }
+    public void test(){
+
+
+    }
 }
+
